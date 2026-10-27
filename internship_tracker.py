@@ -51,4 +51,3 @@ def display_tasks():
 
 if __name__ == "__main__":
     display_tasks()
-
